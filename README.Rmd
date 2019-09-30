@@ -40,7 +40,7 @@ devtools::install_github("sudipkrk/mypkg_sudip")
 
 This is a basic example which shows you how to solve a common problem:
 
-```{r example}
+```{r example, eval=FALSE}
 library(new)
 ## basic example code
 ```
@@ -61,3 +61,7 @@ plot(pressure)
 
 In that case, don't forget to commit and push the resulting figure files, so they display on GitHub!
 GitHub !! 
+
+## Modification by Larry
+
+Hi Sudip! Attempting to perform a pull request
